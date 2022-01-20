@@ -1,1 +1,0 @@
-# Standford-CS231n-study
